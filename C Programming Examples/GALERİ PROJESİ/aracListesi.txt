@@ -1,0 +1,14 @@
+MARKA : mercedes
+MODEL : amg
+URETIM YILI : 2021
+YAKIT TURU : benzin
+VITES TURU : otomatik
+KM : 1000
+
+MARKA : volvo
+MODEL : s30
+URETIM YILI : 2019
+YAKIT TURU : benzin
+VITES TURU : manuel
+KM : 1234
+

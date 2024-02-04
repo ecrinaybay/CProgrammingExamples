@@ -1,0 +1,10 @@
+ISIM-SOYISIM : ecrin aybay
+ID : 123456
+SIFRE : 123456
+YETKI : 1
+
+ISIM-SOYISIM : nazar aybay
+ID : 12345
+SIFRE : 12345
+YETKI : 2
+
